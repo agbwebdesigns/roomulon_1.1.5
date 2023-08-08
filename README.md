@@ -12,11 +12,9 @@ It has a few bugs:
 
 I'm working on the next version and refactoring this into a more manageable game so I'm not going to work on this version anymore.
 
-/************************************************************************/
 Key:
   //- to do
   //  complete
-/************************************************************************/
   
 //-future upgrades to the room creator
 //-different sized rooms
